@@ -1,0 +1,7 @@
+These are the known numbers which end in 5 and have a sum of divisors that is exactly six greater than the number itself:
+
+8925
+32445
+442365
+
+We think that the lower bound for the next number in this sequence is that number times the preceding number. But, this has not been proven. If that is the case, this is a faster than exponential function. If this is indeed accurate, the next number is at least 6031345.
